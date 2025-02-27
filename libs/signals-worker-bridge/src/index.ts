@@ -1,1 +1,1 @@
-export * from './lib/signals-worker-bridge/signals-worker-bridge.component';
+export { createSignalWorkerBridge } from './lib/signals-worker-bridge/signal-worker-bridge';
